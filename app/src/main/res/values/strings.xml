@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DigiBin</string>
+    <string name="col1">Dustbin ID</string>
+    <string name="col2">Dustbin Name</string>
+    <string name="col3">Location</string>
+    <string name="row1">101</string>
+    <string name="row2">alpha00</string>
+    <string name="row3">Samoli</string>
+    <string name="col4">ID</string>
+    <string name="col5">Name</string>
+    <string name="col6">Location</string>
+    <string name="row4">1001</string>
+    <string name="row5">Rony</string>
+    <string name="row6">Samoli</string>
+</resources>

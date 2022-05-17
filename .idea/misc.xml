@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Project/DigiBin-main/DigiBin-main/app/src/main/res/layout/activity_all_status.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android Project/DigiBin-main/DigiBin-main/app/src/main/res/layout/activity_all_status_user.xml" value="0.2" />
+        <entry key="..\:/Android Project/DigiBin-main/DigiBin-main/app/src/main/res/layout/activity_bin_details.xml" value="0.24102564102564103" />
+        <entry key="..\:/Android Project/DigiBin-main/DigiBin-main/app/src/main/res/layout/activity_creus.xml" value="0.13072916666666667" />
+        <entry key="..\:/Android Project/DigiBin-main/DigiBin-main/app/src/main/res/layout/activity_dlist.xml" value="0.29375" />
+        <entry key="..\:/Android Project/DigiBin-main/DigiBin-main/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Android Project/DigiBin-main/DigiBin-main/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Android Project/DigiBin-main/DigiBin-main/app/src/main/res/layout/activity_main.xml" value="0.13072916666666667" />
+        <entry key="..\:/Android Project/DigiBin-main/DigiBin-main/app/src/main/res/layout/activity_progressbar.xml" value="0.29375" />
+        <entry key="..\:/Android Project/DigiBin-main/DigiBin-main/app/src/main/res/layout/activity_sign_in.xml" value="0.14285714285714285" />
+        <entry key="..\:/Android Project/DigiBin-main/DigiBin-main/app/src/main/res/layout/activity_status.xml" value="0.29375" />
+        <entry key="..\:/Android Project/DigiBin-main/DigiBin-main/app/src/main/res/layout/activity_ulist.xml" value="0.22413793103448276" />
+        <entry key="..\:/Android Project/DigiBin-main/DigiBin-main/app/src/main/res/layout/activity_users_details.xml" value="0.14285714285714285" />
+        <entry key="..\:/Android Project/DigiBin-main/DigiBin-main/app/src/main/res/layout/progressbar_login.xml" value="0.29375" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
