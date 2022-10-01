@@ -1,6 +1,6 @@
 # digibin
-This is an Android Mobile App project which is a part of an IOT system. The goal of this project is to show the information of a dustbin like the perchantage 
-of fillup, temparature, humidity and also notify the user/driver if the dustbin has been fillup.
+This is an Android Mobile App project which is a part of an IoT system. The goal of this project is to show the information of a dustbin like the percentage 
+of fillup, temperature, and humidity, and also notify the user/driver if the dustbin has been fillup. All the data has been collected from the sensors and updated live.
 
 Note: This is not a complete project. Ping me in Linkedin if you have any question.
 
