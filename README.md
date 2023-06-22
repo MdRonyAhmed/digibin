@@ -1,15 +1,14 @@
 # digibin
-This is an Android Mobile App project which is a part of an IoT system. The goal of this project is to show the information of a dustbin like the percentage 
-of fillup, temperature, and humidity, and also notify the user/driver if the dustbin has been fillup. All the data has been collected from the sensors and updated live.
+This project involves the development of an Android mobile app that is part of an IoT system. The app's primary objective is to provide real-time information about a dustbin, including the fill-up percentage, temperature, and humidity levels. Additionally, the app notifies the user or driver when the dustbin reaches its capacity limit. The data is collected from sensors and updated live within the app.
 
-Note: This is not a complete project. Ping me in Linkedin if you have any question.
-
-# Process
-There are 2 types of user of this app. 
+There are 2 types of users of this app. 
 1. Driver
 2. Admin
 
-Here, driver can only see the information of the dustbin but the admin can also see the driver list & dustbin list also.
+Here, a driver can only see the information about the dustbin but the admin can also see the driver list & dustbin list also.
+
+Please note that this project is not presented in its entirety here. If you have any specific questions or require further information about the project, please feel free to reach out to me on LinkedIn. The app has two types of users: drivers and admins. Drivers can view the dustbin information, while admins have access to the driver and dustbin lists in addition to the dustbin information.
+
 
 # Language & Tools
 Java, Firebase
